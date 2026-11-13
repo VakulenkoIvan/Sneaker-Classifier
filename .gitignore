@@ -1,0 +1,4 @@
+.env
+sneakers-dataset/
+*.pth
+__pycache__/
